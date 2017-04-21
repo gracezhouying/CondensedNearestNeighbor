@@ -3,7 +3,6 @@
 Created on Sun Oct  9 15:15:19 2016
 
 @author: Ying Zhou
-@PID: A53103642
 @Email: yiz251@ucsd.edu
 """
 
